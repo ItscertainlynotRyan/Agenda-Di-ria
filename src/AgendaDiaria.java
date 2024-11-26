@@ -69,6 +69,7 @@ public class AgendaDiaria {
                 } else {
                     JOptionPane.showMessageDialog(null, "Selecione um compromisso para remover.");
                 }
+
             }
         });
     }
